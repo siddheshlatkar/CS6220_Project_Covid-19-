@@ -16,3 +16,5 @@ Techniques used:
 - SVM (Support Vector Machine)
 - Random forest
 - Gradient boost
+
+Report: https://docs.google.com/document/d/1I_O3tIfhW90cIOHv1c9sjPlA2I5U-Vh5sKl0XlaCmI4/edit#
